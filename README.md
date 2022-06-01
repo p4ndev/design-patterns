@@ -2,6 +2,6 @@
 
 Foundation from GoF (splitted branches).
 
-![Creational](https://caminho.com.br)
-![Structural](https://caminho.com.br)
-![Behavioral](https://caminho.com.br)
+![Creational](https://raw.githubusercontent.com/p4ndev/design-patterns/main/creational.jpg)
+![Structural](https://raw.githubusercontent.com/p4ndev/design-patterns/main/structural.jpg)
+![Behavioral](https://raw.githubusercontent.com/p4ndev/design-patterns/main/behavioral.jpg)
