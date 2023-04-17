@@ -1,6 +1,6 @@
 # Design Patterns
 
-Foundation from GoF (splitted branches).
+Projects (foundation) on branches created from scratch based on my understanding.
 
 ![Creational](https://raw.githubusercontent.com/p4ndev/design-patterns/main/creational.jpg)
 ![Structural](https://raw.githubusercontent.com/p4ndev/design-patterns/main/structural.jpg)
